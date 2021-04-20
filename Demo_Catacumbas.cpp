@@ -3,7 +3,6 @@
 #include <stdlib.h>     /* srand, rand */
 #include <time.h>       /* time */
 #include <unistd.h>
-#include <iostream>
 #include <conio.h>
 using namespace std;
 
